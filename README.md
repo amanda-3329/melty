@@ -1,6 +1,7 @@
 # Melty
 
 Melty is a site for customers interested in finding delicious plant-based cheeses in their areas. They are able to find out information about top brands of plant-based cheeses, read user reviews, and submit their own reviews, including a picture URL of the product.
+[Click here to explore the site!](https://melty-plant-based.herokuapp.com/)
 
 ## Technologies Used
 
